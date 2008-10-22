@@ -1,4 +1,5 @@
 #summary Start page for Python-to-SIS, the next generation (py2sisng)
+#labels Featured
 
 =Welcome=
 
