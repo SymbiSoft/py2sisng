@@ -1,6 +1,6 @@
 #summary Start page for Python-to-SIS, the next generation (py2sisng)
 
-=Python-to-SIS, the next generation=
+=Welcome=
 
 Python-to-SIS, the next generation (py2sisng) is the easiest cross-platform way to create [http://www.symbian.com/ Symbian OS™] installation packages (SIS) from [http://sourceforge.net/projects/pys60 Python for S60] scripts. py2sisng is an open-source program, under the GNU [http://www.gnu.org/licenses/gpl.html GPL] license.
 
@@ -57,7 +57,7 @@ v0.92 2005-09-09: [http://py2sisng.googlecode.com/files/py2sisng-0.92.tar.gz py2
 =Project history=
 
   * *2008-10-22*
- Moved project to [http://code.google.com Google Code].
+  Moved project to [http://code.google.com Google Code].
   * *2007-01-05*
   Added links to [http://ensymble.googlecode.com Ensymble].
   * *2006-04-02*
@@ -78,7 +78,8 @@ v0.92 2005-09-09: [http://py2sisng.googlecode.com/files/py2sisng-0.92.tar.gz py2
   Application templates used in py2sisng are from the original py2sis, which has been released under an open-source license.
   * The [http://ensymble.googlecode.com Ensymble] developer utilities for Symbian OS 
   Ensymble generates SIS packages for S60 3rd Edition phones.
-  * [http://discussion.forum.nokia.com/forum/forumdisplay.php?f=102 Python for S60 discussion board], where questions about Ensymble are answered
+  * [http://discussion.forum.nokia.com/forum/forumdisplay.php?f=102 Python for S60 discussion board]
+  Where questions about py2sisng are answered.
   * Rudolf König's [http://www.koeniglich.de/symbian_sdk_on_unix.html sdk2unix] 
   py2sisng uses, and includes the source code to, the genaif program from sdk2unix.
   * makesis for Linux from [http://gnupoc.sourceforge.net/ GnuPoc]
